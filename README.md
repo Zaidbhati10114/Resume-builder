@@ -1,3 +1,6 @@
+![Screenshot 2023-06-18 at 4 36 33 PM](https://github.com/Zaidbhati10114/Resume-builder/assets/59171704/d4bc559a-4544-4989-80dd-948a10483587)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
