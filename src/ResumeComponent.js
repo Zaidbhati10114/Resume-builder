@@ -363,9 +363,9 @@ function ResumeComponent() {
               </div>
               <div className="card-body">
                 <ul id="skillT">
-                  {selectedOption?.map((selectOption) => {
-                    <li>{selectOption.label}</li>;
-                  })}
+                  {selectedOption?.map((selectOption) => (
+                    <li key={selectOption.value}>{selectOption.label}</li>
+                  ))}
                 </ul>
               </div>
             </div>
